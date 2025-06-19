@@ -46,9 +46,7 @@
 
     <p><a href="carta.html">Ver la carta completa→</a></p>
   </section>
-
-  <hr>
-
+  
   <section>
     <h2>Prueba el mejor cafe</h2>
     <article>
