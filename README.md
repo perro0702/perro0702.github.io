@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+;<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -18,9 +18,8 @@
   <section>
 
     <img src="portada.jpg" alt="Portada de la cafetería" width="50%">
-    <h2> Bienvenido a coffeejeji </h2>
-    <p> Aqui se sirven momentos y se preparan sonrisas. </p>
-    
+    <h2>Bienvenido a coffeejeji</h2>
+    <p>Aqui se sirven momentos y se preparan sonrisas.</p>
   </section>
 
 
@@ -47,7 +46,8 @@
 
     <p><a href="carta.html">Ver la carta completa→</a></p>
   </section>
-  
+
+
   <section>
     <h2>Prueba el mejor cafe</h2>
     <article>
