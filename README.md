@@ -18,8 +18,9 @@
   <section>
 
     <img src="portada.jpg" alt="Portada de la cafetería" width="50%">
-    <h2>Bienvenido a coffeejeji</h2>
-    <p>Aqui se sirven momentos y se preparan sonrisas.</p>
+    <h2> Bienvenido a coffeejeji </h2>
+    <p> Aqui se sirven momentos y se preparan sonrisas. </p>
+    
   </section>
 
 
